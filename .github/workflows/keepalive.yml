@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Ping website
         run: |
-          curl -I https://your-site.com
+          curl -I https://swearcount.vercel.app/
